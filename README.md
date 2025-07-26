@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Jayant Goyal — an Electrical Engineering undergrad at NIT Jalandhar and a passionate full-stack developer.<br>🚀 I build real-world projects using MERN, Django, and cloud tools like AWS & Vercel.<br>💡 Love solving problems with code — from placement portals to e-commerce platforms.<br>📚 Always learning, always building.<br><br>
+👋 Hi, I'm Jayant Goyal — an Electrical Engineering undergrad at NIT Jalandhar and a passionate full-stack developer.<br>🚀 I build real-world projects using MERN, Django, and cloud tools like AWS & Vercel.<br>💡 Love solving problems with code .<br>📚 Always learning, always building.<br><br>
 
 
 ## 🌐 Socials:
